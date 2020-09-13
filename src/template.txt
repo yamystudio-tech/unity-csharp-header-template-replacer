@@ -1,0 +1,27 @@
+/*
+ * Copyright (c) 2020 Yamy Studio.
+ * https://yamystudio.com/ 
+ */
+ 
+using UnityEngine;
+ 
+public class #SCRIPTNAME# : MonoBehaviour
+{
+    #region Public Fields
+    #endregion
+ 
+    #region Unity Methods
+    void Start()
+    {
+        #NOTRIM#
+    }
+ 
+    void Update()
+    {
+        #NOTRIM#
+    }
+    #endregion
+ 
+    #region Private Methods
+    #endregion
+}
