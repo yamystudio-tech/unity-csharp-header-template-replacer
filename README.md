@@ -1,4 +1,5 @@
 **Unity C# Header Template Replacer**
+**Only For Mac**
 
 Found and Replace 81-C# Script-NewBehaviourScript.cs.txt
 
