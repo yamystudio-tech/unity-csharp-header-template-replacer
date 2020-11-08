@@ -8,20 +8,19 @@ using UnityEngine;
 public class #SCRIPTNAME# : MonoBehaviour
 {
     #region Public Fields
+
     #endregion
  
     #region Unity Methods
-    void Start()
+
+    private void Start()
     {
         #NOTRIM#
     }
- 
-    void Update()
-    {
-        #NOTRIM#
-    }
+
     #endregion
  
     #region Private Methods
+
     #endregion
 }
